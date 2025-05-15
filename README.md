@@ -5,4 +5,4 @@ We provide 10 visual graphs as references in this repository [for each graph str
 
 In addition, we also provide graphs with different visual styles drawn by `networkx` and `matplotlib` [here](VGCure/images_networkx/) for reference.
 
-The **complete data** of VGCure and MCDGraph can be found [**Here**](https://drive.google.com/drive/folders/1WF3KyYTh3flhICzexoqHvV7OzWmxt1aB?usp=sharing).
+The **complete data** of VGCure and MCDGraph can be found in [**🤗Huggingface**](https://huggingface.co/datasets/AAAndyZ/VGCure) and [**Google Driver**](https://drive.google.com/drive/folders/1WF3KyYTh3flhICzexoqHvV7OzWmxt1aB?usp=sharing).
